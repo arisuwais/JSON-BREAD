@@ -1,0 +1,51 @@
+[
+   {
+      "string": "khusni",
+      "integer": 22,
+      "float": 145,
+      "date": "2011-08-19",
+      "boolean": true
+   },
+   {
+      "string": "jafar",
+      "integer": 21,
+      "float": 189,
+      "date": "2011-08-19",
+      "boolean": true
+   },
+   {
+      "string": "khusni",
+      "integer": 11,
+      "float": 134,
+      "date": "2011-08-19",
+      "boolean": true
+   },
+   {
+      "string": "masfud",
+      "integer": 19,
+      "float": 145,
+      "date": "2011-08-19",
+      "boolean": true
+   },
+   {
+      "string": "himawan",
+      "integer": 70,
+      "float": 200,
+      "date": "2011-08-19",
+      "boolean": false
+   },
+   {
+      "string": "jafar",
+      "integer": 22,
+      "float": 189,
+      "date": "2011-08-19",
+      "boolean": true
+   },
+   {
+      "string": "jafar",
+      "integer": 21,
+      "float": 145,
+      "date": "2011-08-19",
+      "boolean": true
+   }
+]

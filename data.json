@@ -1,0 +1,16 @@
+[
+   {
+      "string": "difa",
+      "integer": "2",
+      "float": "170",
+      "date": "2018-01-31",
+      "boolean": "false"
+   },
+   {
+      "string": "khusni",
+      "integer": "19",
+      "float": "189",
+      "date": "2017-12-31",
+      "boolean": "true"
+   }
+]
